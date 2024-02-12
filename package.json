@@ -1,0 +1,16 @@
+{
+  "name": "nautilus",
+  "version": "1.0.0",
+  "description": "JS Shell",
+  "main": "index.js",
+  "scripts": {
+    "run": "node main.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nautilus-js"
+  },
+  "author": "Joey Zhu",
+  "license": "ISC"
+}
